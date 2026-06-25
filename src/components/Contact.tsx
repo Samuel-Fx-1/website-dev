@@ -44,8 +44,8 @@ export default function Contact() {
         </svg>
       ),
       label: 'Email',
-      value: 'alex@example.com',
-      href: 'mailto:alex@example.com',
+      value: 'samuelislegend8@gmail.com',
+      href: 'mailto:samuelislegend8@gmail.com',
     },
     {
       icon: (
@@ -55,7 +55,7 @@ export default function Contact() {
         </svg>
       ),
       label: 'Location',
-      value: 'San Francisco, CA',
+      value: 'RW,KGL,KABUGA,NY',
       href: '#',
     },
     {

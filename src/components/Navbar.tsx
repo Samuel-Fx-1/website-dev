@@ -56,10 +56,10 @@ export default function Navbar() {
             whileTap={{ scale: 0.95 }}
           >
             <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-accent-cyan to-accent-purple flex items-center justify-center font-bold text-dark-900 text-lg font-mono">
-              A
+              S
             </div>
             <span className="text-lg font-bold hidden sm:block">
-              <span className="text-white">Alex</span>
+              <span className="text-white">SAM</span>
               <span className="text-accent-cyan">.dev</span>
             </span>
           </motion.a>

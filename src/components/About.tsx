@@ -80,19 +80,19 @@ export default function About() {
                 </p>
                 <p className="pl-4 text-gray-400">
                   <span className="text-accent-green">name</span>:{' '}
-                  <span className="text-accent-orange">"Alex Chen"</span>,
+                  <span className="text-accent-orange">"Samuel FX"</span>,
                 </p>
                 <p className="pl-4 text-gray-400">
                   <span className="text-accent-green">role</span>:{' '}
-                  <span className="text-accent-orange">"Full-Stack Developer"</span>,
+                  <span className="text-accent-orange">"Full-Stack Developer & Trader"</span>,
                 </p>
                 <p className="pl-4 text-gray-400">
                   <span className="text-accent-green">location</span>:{' '}
-                  <span className="text-accent-orange">"San Francisco, CA"</span>,
+                  <span className="text-accent-orange">"RW,KGL,KABUGA,NY"</span>,
                 </p>
                 <p className="pl-4 text-gray-400">
                   <span className="text-accent-green">education</span>:{' '}
-                  <span className="text-accent-orange">"B.S. Computer Science"</span>,
+                  <span className="text-accent-orange">"UR"</span>,
                 </p>
                 <p className="pl-4 text-gray-400">
                   <span className="text-accent-green">passion</span>:{' '}
@@ -103,7 +103,7 @@ export default function About() {
 
               <div className="mt-6 pt-6 border-t border-white/5">
                 <p className="text-gray-300 leading-relaxed text-sm sm:text-base">
-                  I'm a passionate full-stack developer with 5+ years of experience building
+                  I'm a passionate full-stack developer with 3+ years of experience building
                   web applications that are fast, accessible, and beautifully designed. I love
                   working with modern technologies and am always exploring new tools to deliver
                   the best possible solutions.

@@ -68,7 +68,7 @@ export default function Hero() {
           </div>
           <div className="pl-4">
             <span className="text-accent-green">name</span>:{' '}
-            <span className="text-accent-orange">"Alex Chen"</span>,
+            <span className="text-accent-orange">"Samuel FX"</span>,
           </div>
           <div className="pl-4">
             <span className="text-accent-green">passion</span>:{' '}
@@ -120,7 +120,7 @@ export default function Hero() {
         >
           <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold leading-tight mb-4">
             Hi, I'm{' '}
-            <span className="gradient-text">Alex Chen</span>
+            <span className="gradient-text">Samuel FX</span>
           </h1>
           <div className="text-xl sm:text-2xl md:text-3xl text-gray-300 mb-2 h-10 flex items-center justify-center">
             <span className="font-mono text-accent-cyan">&gt; </span>
@@ -187,7 +187,7 @@ export default function Hero() {
             <div className="relative w-24 h-24 sm:w-28 sm:h-28 rounded-full overflow-hidden border-2 border-dark-900">
               <img
                 src="/images/profile.jpg"
-                alt="Alex Chen"
+                alt="Samuel FX"
                 className="w-full h-full object-cover"
               />
             </div>

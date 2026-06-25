@@ -21,11 +21,11 @@ export default function Footer() {
             {/* Logo & Copyright */}
             <div className="flex items-center gap-3">
               <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-accent-cyan to-accent-purple flex items-center justify-center font-bold text-dark-900 text-sm font-mono">
-                A
+                S
               </div>
               <div>
                 <span className="text-sm font-medium text-white">
-                  Alex Chen
+                  Samuel FX
                 </span>
                 <span className="text-gray-500 text-sm ml-2">
                   © {new Date().getFullYear()}
